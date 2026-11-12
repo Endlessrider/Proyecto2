@@ -3,4 +3,5 @@
 <img width="945" height="1021" alt="Captura pantalla kali linux seguridad" src="https://github.com/user-attachments/assets/95a9f661-8410-409d-99cd-932dbc5c5b48" />
 <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/96e30879-761e-425d-bcd9-56700a8eef9c" />
 <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/36f50764-80e5-4b4d-8543-6eabe5fdb2f3" />
+<img width="1919" height="1063" alt="image" src="https://github.com/user-attachments/assets/aecf5cbb-61d6-4766-a072-93e6f556d00c" />
 
